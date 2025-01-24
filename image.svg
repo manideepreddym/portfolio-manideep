@@ -1,0 +1,33 @@
+
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hexagon background -->
+  <path
+    d="M50 5
+       L85 25
+       L85 75
+       L50 95
+       L15 75
+       L15 25 Z"
+    fill="#0a192f"
+    stroke="#64ffda"
+    stroke-width="2"
+  />
+  
+  <!-- Letter M -->
+  <path
+    d="M30 65
+       L40 35
+       L50 55
+       L60 35
+       L70 65"
+    fill="none"
+    stroke="#64ffda"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  
+  <!-- Decorative lines -->
+  <line x1="30" y1="70" x2="70" y2="70" stroke="#64ffda" stroke-width="2"/>
+  <line x1="30" y1="30" x2="70" y2="30" stroke="#64ffda" stroke-width="2"/>
+</svg>
